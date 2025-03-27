@@ -1,4 +1,4 @@
-# Ejercicios Prácticos de la asignatura Diseño y Análisis De Algoritmos.
+# Prácticas de la asignatura Diseño y Análisis De Algoritmos.
 Dentro de la carpeta src se encontrara el ejercicio correspondiente a cada PDF.
 
 Voraces:
