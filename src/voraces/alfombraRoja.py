@@ -30,3 +30,4 @@ solucion = estrategia_greedy(famosos)
 solucion.sort(key=lambda x: x[0])
 
 print(solucion[0][1])
+
