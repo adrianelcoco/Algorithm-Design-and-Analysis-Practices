@@ -13,3 +13,6 @@ Dentro de la carpeta `src` se encontrará el ejercicio correspondiente a cada PD
 
 - [🔗 prob-QSELL.pdf](https://github.com/user-attachments/files/19522292/prob-QSELL.pdf)  
   🔹 [📜 Luces-Resuelto](src/encenderLuces.py)
+
+- [🔗 prob-Second Dates.pdf](https://github.com/user-attachments/files/19628455/prob-Second.Dates.pdf)
+  🔹 [📜 SecondDates-Resuelto](src/voraces/secondDates.py)
